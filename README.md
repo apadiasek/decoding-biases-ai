@@ -1,6 +1,5 @@
 # The Bias Broadcast: Gender Discrepancies in Spotify's Algorithmic Podcast Recommendations
 #### Janine Ecker, Łukasz Kaźmierczak, Anna Padiasek, Sophie Shanshory
-
 <img width="400" alt="Account creation" src="Images/Logo_2.png">
 
 ## Table of Contents
