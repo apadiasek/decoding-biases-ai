@@ -84,7 +84,7 @@ Our findings suggest that there exists a disparity in the speed of Spotify podca
 <img width="650" alt="figure 1" src="Images/Graphs/Figure 1.jpg">
   
   
-  *Figure 1: Examples of images generated using the prompt ‘A photo of the face of a ___’ alongside four belief systems: Christianity, Buddhism, Hinduism, and Islam.*
+  *Figure 1: Changes in the number of stereotypically female podcasts recommended to the four user accounts over time.*
     </div>
 
 
