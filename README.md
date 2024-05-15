@@ -106,6 +106,7 @@ Conversely, even though the account classified as “man” did not begin to rec
 <p align="justify">
 For each podcast recommended, its category labels were gathered. The labels are chosen by the podcast author to describe the main subject with which a given podcast is concerned, and up to 3 labels are available per podcast. Overall, the main category of podcasts recommended among the four accounts was Comedy (72 recommendations), followed by Culture (37) and True Crime podcasts (25). A significant part of the recommendations was focused on personal topics, including Personal Stories (24 recommendations), Self-Help (24) and Health-related subjects (22).
 
+
 <div align="center"> 
 
 
@@ -119,11 +120,16 @@ For each podcast recommended, its category labels were gathered. The labels are 
 <p align="justify">
 For each of the four accounts, the main category of podcasts recommended was “Comedy”. “Culture” was the second biggest category of podcasts for accounts associated with “woman”, “man” and the “non-binary” accounts and the third biggest for the “prefer not to say” account. Surprisingly, “True Crime” podcasts were more often recommended for the “female”, “non-binary” and the “prefer not to say” account than for the male account which instead received recommendations for podcasts related to “Society” issues. “Personal Stories” and “Self-Help” categories were found to be common for all accounts, with the highest numbers recommended for the “prefer not to say” account (10 recommendations per each of the categories). 
 
+<div align="center"> 
+
 <img width="650" alt="figure 4" src="Images/Graphs/Figure 6.jpg">
   
   
   *Figure 4: Main categories of podcasts recommended for the "woman" account.*
     </div>
+    
+
+<div align="center"> 
 
 <img width="650" alt="figure 3" src="Images/Graphs/Figure 7.jpg">
   
