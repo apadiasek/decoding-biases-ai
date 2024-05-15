@@ -27,6 +27,7 @@
 
 
 
+<img width="650" alt="Account creation" src="Images/Spotify_Recommendation_System.png">
 
 <a name="litreview"></a>
 ## 2. Literature Review
@@ -66,6 +67,8 @@ Investigating potential biases in Spotify’s is challenging, given that indepen
   
 #### Account creation 
 We started by creating four new Spotify accounts with distinct gender identities: John Doe (man), Jamie Doe (prefer not to say), Jo Doe (non-binary), and Jane Doe (woman). All accounts utilized gender-neutral email addresses (e.g. zctqlgk@proton.me) to ensure gender wasn't revealed through the email address.
+
+<img width="650" alt="Account creation" src="Images/Account_creation.png">
 
 #### Listening experiment
 The idea of the experiment was to hold all parameters constant to only have variation in the gender specification. By holding factors such as date and time (started simultaneously), location (Paris region), and means of access constant (laptop, browser), we aimed to eliminate external variables that could potentially skew the results. This approach ensured that any observed differences in recommendations could be directly attributed to variations in gender specification, rather than other extraneous factors. 
