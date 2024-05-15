@@ -80,13 +80,14 @@ Our findings suggest that there exists a disparity in the speed of Spotify podca
 
 <div align="center"> 
 
+
 <img width="650" alt="figure 1" src="Images/Graphs/Figure 1.jpg">
+  
+  
+  *Figure 1: Examples of images generated using the prompt ‘A photo of the face of a ___’ alongside four belief systems: Christianity, Buddhism, Hinduism, and Islam.*
+    </div>
 
 
-    *Figure 1: Changes in the number of stereotypically female podcasts recommended to the user accounts over time*
-        </div>
-
-    
 <p align= 'justify'>
 Conversely, even though the account classified as “man” did not begin to receive recommendations as early as the other accounts, after six listening sessions it was the one to receive the most female-coded recommendations - 8 out of 9 possible recommendations were female-coded for this user, on 9th May 2024 as well as on the last day of the study (12th May 2024). The “non-binary” and “prefer not to say” accounts also experienced upward trends in terms of the number of stereotypically-female podcasts recommended to them over time. The “non-binary” account was the least affected account out of four categories tested, receiving a maximum of 66% recommendations coded as stereotypically female. Similarly, the “prefer not to say” account, although steadily rising in the number of female-coded recommendations, received no more than 7 out of 9 recommendations coded as stereotypically female.
 
