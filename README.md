@@ -78,10 +78,11 @@ On examining the Discover Weekly Playlists recommended for the four accounts aft
 <p align= "justify">
 Our findings suggest that there exists a disparity in the speed of Spotify podcasts recommendation of stereotypically female podcasts, depending on the gender of the user. As such, gender stereotypes may thus influence whether a user receives personalised recommendations if the interests of the user go against the stereotypical subjects associated with a given gender. In comparison to accounts associated with “woman”, “non-binary” and “prefer not to say” categories, the “man” account took longer to adjust its recommendations to podcasts classified as stereotypically female (see Figure X). While “woman”, “non-binary” and the “prefer not to say” accounts received between 33-44% of the recommendations as female-coded podcasts after just three listening sessions, the “John Doe” account did so only after four listening activities (2nd May 2024). The account classified as “woman” was the first one to reach almost universally female-coded recommendations, with eight female-coded podcasts recommended out of nine possible recommendations. However, on additional listening sessions, the number of female-coded recommendations for this account dropped, reaching only 6 out of 9 on the last day of the study. 
 
-<img width="650" alt="figure 1" src="Images/Graphs/Figure 1.jpg">
+<div align="center"> 
 
-    *Figure 1: Changes in the number of stereotypically female podcasts recommended for "man", "woman", "non-binary" and "prefer not to say" accounts over time.*
-    </div>
+<img width="650" alt="figure 1" src="Images/Graphs/Figure 1.jpg">
+*Figure 1: Changes in the number of stereotypically female podcasts recommended for "man", "woman", "non-binary" and "prefer not to say" accounts over time.*
+
     
 <p align= 'justify'>
 Conversely, even though the account classified as “man” did not begin to receive recommendations as early as the other accounts, after six listening sessions it was the one to receive the most female-coded recommendations - 8 out of 9 possible recommendations were female-coded for this user, on 9th May 2024 as well as on the last day of the study (12th May 2024). The “non-binary” and “prefer not to say” accounts also experienced upward trends in terms of the number of stereotypically-female podcasts recommended to them over time. The “non-binary” account was the least affected account out of four categories tested, receiving a maximum of 66% recommendations coded as stereotypically female. Similarly, the “prefer not to say” account, although steadily rising in the number of female-coded recommendations, received no more than 7 out of 9 recommendations coded as stereotypically female.
