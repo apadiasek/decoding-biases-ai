@@ -161,6 +161,12 @@ The high number of “True Crime” podcasts, noticeable for the female account,
 <p align="justify">
 Additionally, we have observed an upward trend in the recommendations of female-hosted podcasts. As the accounts only listened to podcasts created by women, this was expected, however differences were observed in the growth of the number of recommendations skewed towards female hosts. The male account only received a significant number (4 out of 9) of female-hosted recommended podcasts after four listening sessions (2nd May 2024), while for the female and the “prefer not to say account” the Spotify podcasts recommendations included almost solely female-led shows since the fourth listening session (7 out of 9 recommendations on 2nd May 2024). Nevertheless, at the end of the experiment, the majority of the podcasts recommended for all accounts was female-hosted.
 
+<img width="650" alt="figure 8" src="Images/Graphs/Figure 3.jpg">
+  
+  
+  *Figure 8: Changes in the number of female-hosted podcasts recommended to the four accounts over time.*
+    </div>
+
 <p align="justify">
 On looking separately at the accounts, over time the “prefer not to say” account received the greatest number of female-hosted podcasts out of all accounts (60% of recommendations) while 56% of podcasts recommended for the female account were created by women. The share of female-hosted podcasts recommended for the male and “non-binary” accounts was lower, and amounted to 46% and 51%, respectively. This finding suggests that here, too, the gender of the user may have had an impact on the early podcasts recommendations of the users, with users not identified as “male” being more likely to receive recommendations of female-hosted podcasts.
 
