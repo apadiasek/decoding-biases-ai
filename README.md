@@ -131,21 +131,39 @@ Our findings also illuminate some broad trends about how different categories of
 
 <p align="justify">
 Aguiar, L., Waldfogel, J., & Waldfogel, S. (2018). Playlisting Favorites: Is Spotify Gender Biased? JRC Digital Economy Working Paper 2018-07; JRC Technical Reports, JRC113503.
+<p align= 'justify'>
 Aguiar, L., Waldfogel, J., & Waldfogel, S. (2021). Playlisting favorites: Measuring platform bias in the music industry. International Journal of Industrial Organization, 78, 102765.
+<p align= 'justify'>
 Anderson, A., Maystre, L., Anderson, I., Mehrotra, R., & Lalmas, M. (2020). Algorithmic effects on the diversity of consumption on Spotify. Proceedings of The Web Conference 2020. doi:10.1145/3366423.3380281.
+<p align= 'justify'>
 Björklund, G., Bohlin, M., Olander, E., Jansson, J., Walter, C. E., & Au-Yong-Oliveira, M. (2022). An exploratory study on the Spotify Recommender System. Information Systems and Technologies, 366–378. doi:10.1007/978-3-031-04819-7_36.  
+<p align= 'justify'>
 Browder, L. (2006). Dystopian romance: True crime and the female reader. The Journal of Popular Culture 39(6): 928–953.
+<p align= 'justify'>
 Casanova, A. (N.d.). What the podcast boom means for digital revenue in a post-pandemic landscape. FT Strategies. https://www.ftstrategies.com/en-gb/insights/what-the-podcast-boom-means-for-digital-revenue-in-a-post-pandemic-landscape/. 
+<p align= 'justify'>
 Greer, A. (2017). Murder, she spoke: the female voice’s ethics of evocation and spatialisation in the true crime podcast, Sound Studies 3:2, 152-164.
+<p align= 'justify'>
 Hodgson, T. (2021). Spotify and the democratisation of music. Popular Music, 40(1), 1–17.
+<p align= 'justify'>
 Majidi, M. (2023, 13 December). Share of podcast in Spotify’s advertising revenue the United States from 2019 to 2024. Statista. https://www.statista.com/statistics/1324009/spotify-podcast-ad-revenue-share-usa/. 
+<p align= 'justify'>
 Misener, D. (2022, 22 August). I made a map of Spotify podcast recommendations. Here’s what I learned. Bumper. https://wearebumper.com/blog/2022/08/22/spotify-episode-recommendation-algorithm. 
+<p align= 'justify'>
 Murley, J. (2008) The Rise of True Crime: Twentieth Century Murder and American Popular Culture, Bloomsbury 3PL.
+<p align= 'justify'>
 Nazari, Z., Charbuillet, C., Pages, J., Laurent, M., Charrier, D., Vecchione, B., & Carterette, B. (2020). Recommending Podcasts for Cold-Start Users Based on Music Listening and Taste. Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. https://doi.org/10.1145/3397271.3401101.  
+<p align= 'justify'>
 Pâquet L (2018) Literary forensic rhetoric: Maps, emotional assent, and rhetorical space in Serial and Making a Murderer. Law and Humanities 12(1): 71–92.
+<p align= 'justify'>
 Rich, B. & Bujalka, E. (2023, 21 February). The draw of the ‘manosphere’: understanding Andrew Tate’s appeal to lost men. The Conversation. https://theconversation.com/the-draw-of-the-manosphere-understanding-andrew-tates-appeal-to-lost-men-199179.
+<p align= 'justify'>
 Riordan, K. (2018). Commentary: The mobile phone as the new transistor radio. In: Park S, Fisher C, Fuller G, et al. (eds) Digital News Report: Australia. Report. News and Media Research Centre, University of Canberra.
+<p align= 'justify'>
 Rosenborg, R. (2024, 10 January). Podcasts have a recommendation problem. MIDiA Research. https://www.midiaresearch.com/blog/podcasts-have-a-recommendation-problem. 
+<p align= 'justify'>
 Tsagkias, M., Larson, M., & De Rijke, M. (2010). Predicting podcast preference: An analysis framework and its application. Journal of the American Society for Information Science and Technology 61, 2 (2010), 374–391. 
+<p align= 'justify'>
 Vitis, L., & Ryan, V. (2023). True Crime Podcasts in Australia: Examining Listening Patterns and Listener Perceptions, Journal of Radio & Audio Media, 30:1, 291-314.
+<p align= 'justify'>
 Yang, L., Sobolev, M., Wang, Y., Chen, J., Dunne, D., Tsangouri, C., Dell, N., Naaman, M., & Estrin, D. (2019). How Intention Informed Recommendations Modulate Choices: A Field Study of Spoken Word Content. In The Web Conference. ACM.
