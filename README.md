@@ -3,7 +3,6 @@
 
 <img width="400" alt="Account creation" src="Images/Logo_2.png">
 
-
 ## Table of Contents
 [1. Introduction](#introduction)
 
