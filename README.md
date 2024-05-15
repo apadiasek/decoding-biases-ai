@@ -1,4 +1,4 @@
-# Gender Bias in Music: Exploring Spotify's Recommendations
+# The Bias Broadcast: Gender Discrepancies in Spotify's Algorithmic Podcast Recommendations
 #### Janine Ecker, Łukasz Kaźmierczak, Anna Padiasek, Sophie Shanshory
 
 ## Table of Contents
