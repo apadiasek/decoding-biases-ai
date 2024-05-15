@@ -31,8 +31,12 @@
 <a name="litreview"></a>
 ## 2. Literature Review
 
-#### 2.1.
+#### 2.1. (Gender) Bias in Recommendations
 <p align="justify">
+Gender bias in recommendations is a multifaceted issue, influenced by factors beyond the programming of the algorithms. Firstly, there might be a population bias, which occurs when a dataset reflects societal imbalances. If Spotify's dataset overwhelmingly features music by male artists, the algorithm will naturally recommend them more often, even to users who might enjoy female artists equally. Secondly, parameters such as location, time, means of access, etc. might influence recommendations. However, it is interesting to understand what happens when these factors are held constant from a purely algorithmic perspective. In such circumstances, it is necessary to understand what is fair, i.e. why certain songs prevail over others. Transparency is crucial. As Melchiorre et al. (2021) point out, informing users about how recommendations are generated, like saying, “This song is recommended because other female listeners enjoyed it,” can raise awareness of potential bias.
+
+<p align="justify">
+Streaming platforms like Spotify face growing concerns about algorithmic bias and discrimination, particularly regarding gender misrepresentation. As Hodgson (2021) argues, algorithms can reinforce existing stereotypes by promoting specific genders within genres. Indeed,  one of the first empirical studies in the field conducted by Eriksson and Johansson (2017) seems to confirm this claim, as they discovered that Spotify recommendations tend to favor male artists across all genres. This perpetuates the general trend in the music industry, which is decades old and emerged even before the rise of streaming platforms. While some suggest algorithms favor male artists, others point to a lack of inherent bias and instead highlight the issue of population bias – a limited pool of songs by female artists on the platform (Aguiar et al., 2018). The debate is still ongoing. Aguiar et al. (2021) further complicate the issue by pointing out that human curation of some playlists contributes to the problem. Therefore, the misrepresentation cannot be purely attributed to AI systems. Nonetheless, features such as “related artists,” “discover,” and “browse”, which are uniquely tailored to the users’ preferences, reinforce ideas about the gender affiliation of artists and songs. Noteworthy, they may invisibly shape users’ preferences. Our study is motivated by the fact that the literature on what drives the potential bias in algorithmic music recommendations remains inconclusive.
 
 #### 2.2. Podcast Recommendations
 <p align="justify"> 
