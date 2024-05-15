@@ -90,7 +90,7 @@ Our findings suggest that there exists a disparity in the speed of Spotify podca
 <div align="center"> 
 
 
-<img width="650" alt="figure 1" src="Images/Graphs/Figure 2.jpg">
+<img width="650" alt="figure 2" src="Images/Graphs/Figure 2.jpg">
   
   
   *Figure 2: Changes in the number of stereotypically female podcasts recommended to the four user accounts over time, shown as a trend for each account.*
@@ -105,6 +105,16 @@ Conversely, even though the account classified as “man” did not begin to rec
 
 <p align="justify">
 For each podcast recommended, its category labels were gathered. The labels are chosen by the podcast author to describe the main subject with which a given podcast is concerned, and up to 3 labels are available per podcast. Overall, the main category of podcasts recommended among the four accounts was Comedy (72 recommendations), followed by Culture (37) and True Crime podcasts (25). A significant part of the recommendations was focused on personal topics, including Personal Stories (24 recommendations), Self-Help (24) and Health-related subjects (22).
+
+<div align="center"> 
+
+
+<img width="650" alt="figure 3" src="Images/Graphs/Figure 5.jpg">
+  
+  
+  *Figure 3: Main categories of podcasts recommended among all the accounts.*
+    </div>
+
 
 <p align="justify">
 For each of the four accounts, the main category of podcasts recommended was “Comedy”. “Culture” was the second biggest category of podcasts for accounts associated with “woman”, “man” and the “non-binary” accounts and the third biggest for the “prefer not to say” account. Surprisingly, “True Crime” podcasts were more often recommended for the “female”, “non-binary” and the “prefer not to say” account than for the male account which instead received recommendations for podcasts related to “Society” issues. “Personal Stories” and “Self-Help” categories were found to be common for all accounts, with the highest numbers recommended for the “prefer not to say” account (10 recommendations per each of the categories). 
