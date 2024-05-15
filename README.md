@@ -28,8 +28,9 @@
 
 <div align="center"> 
 
-<img width="650" alt="Account creation" src="Images/Spotify_Recommendation_System.png">  
-  *Image 1: Spotify recommendation system.*
+<img width="650" alt="Account creation" src="Images/account_creation.png">
+  
+  *Image 2: Creation of the accounts.*
     </div>
 
 <a name="litreview"></a>
