@@ -59,6 +59,38 @@ Finally, does the apparent success of highly-gender podcasts from the manosphere
 <a name="method"></a>
 ## 3. Data Collection and Methodology
 
+<p align= 'justify'>
+Investigating potential biases in Spotify’s is challenging, given that independent researchers do not have access to the system’s black box and thus requires reverse-engineering to gain insights into the opaque system. We devised an innovative research design to address our research question regarding how gender specification on user profiles affects Spotify's algorithmic recommendations. The core idea of the experiment  was to hold all parameters constant to only have variation in the gender specification. 
+
+<p align= 'justify'>
+  
+#### Account creation 
+We started by creating four new Spotify accounts with distinct gender identities: John Doe (man), Jamie Doe (prefer not to say), Jo Doe (non-binary), and Jane Doe (woman). All accounts utilized gender-neutral email addresses (e.g. zctqlgk@proton.me) to ensure gender wasn't revealed through the email address.
+
+#### Listening experiment
+The idea of the experiment was to hold all parameters constant to only have variation in the gender specification. By holding factors such as date and time (started simultaneously), location (Paris region), and means of access constant (laptop, browser), we aimed to eliminate external variables that could potentially skew the results. This approach ensured that any observed differences in recommendations could be directly attributed to variations in gender specification, rather than other extraneous factors. 
+
+##### Stage 1 - Music: 
+Firstly, we listened to music from the ‘New Music Friday’ playlist for two weeks at the same intervals. This playlist is one of the most important avenues for emerging artists to promote their music (Aguiar and Waldfogel, 2020). Every week, 50 new songs are added to each country’s playlist. In the first week, we listened to half of the ranking, and in the next week, we completed the entire playlist. We then shifted our primary data collection and analytical focus to podcasts. Afterwards, we coordinated listening to a playlist with a generic name, ‘My Playlist #1’, featuring 26 songs that overlapped across all four accounts.
+
+##### Stage 2 - Podcasts: 
+We coordinated listening to 8 episodes, totalling approximately 9 hours, of ‘The Girls Bathroom’, a female-hosted show from the UK that explicitly targets women. We purposefully chose a podcast targeting female recipients to identify subsequent patterns in the recommendations (the complete list of the episodes played can be found in the Annex). 
+
+#### Data collection and comparative analysis
+Throughout the experiment, we captured screenshots of the recommended podcasts for each user to compare and identify potential discrepancies. We took the screenshots each day after streaming the podcasts. Once we concluded the experiment, based on the screenshots, we manually coded all the personalized recommendation information in a spreadsheet which served as the corpus of our analysis. This dataset includes information on the date of recommendation, source of personalized recommendations (initial podcasts; episodes for you; recommended podcasts), account from which the data comes, the name of the podcast, podcast label(s) (up to 3, decided by creators/Spotify), host (1 - all female, 0 - otherwise). Finally, we included a variable on whether a podcast is ‘overtly female-oriented’ (similarly to ‘The Girls Bathroom’), which we decided based on the following criteria: 
+ ##### - Content and Themes: 
+Focus on traditionally feminine topics: This includes topics like relationships, beauty and fashion, body image, childcare and family life, and celebrity gossip.
+ ##### - Health and wellness: 
+Podcasts that focus on health, wellness, and beauty standards are often considered female-oriented.
+ ##### - Language and Tone: 
+Focus on personal stories and experiences: Podcasts that prioritize emotional responses and personal stories may cater to a female audience, particularly when compounded by other criteria. (For example, we found a number of self-help podcasts seemingly oriented to a male-dominated audience that may have touched on personal stories as well, but for female-oriented podcasts, we were able to identify the above-mentioned content/themes in conjunction with personal stories.)
+ ##### - Marketing and Branding: #####
+We looked for imagery, descriptions, or slogans that may be stereotypical and target a female audience.
+ ##### - Genre Classification by Spotify: #####
+Although Spotify's categorization (e.g., "Relationships" or "Personal stories") is not conclusive, we took it into account when uncertain, alongside other criteria. These genres may suggest a female-oriented focus.
+
+Based on the dataset, we analyzed the patterns and created visualizations to understand the developments better. 
+
 <a name="results"></a>
 ## 4. Results and Analysis
 
