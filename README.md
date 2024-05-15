@@ -81,7 +81,10 @@ Our findings suggest that there exists a disparity in the speed of Spotify podca
 <div align="center"> 
 
 <img width="650" alt="figure 1" src="Images/Graphs/Figure 1.jpg">
-*Figure 1: Changes in the number of stereotypically female podcasts recommended for "man", "woman", "non-binary" and "prefer not to say" accounts over time.*
+
+
+    *Figure 1: Changes in the number of stereotypically female podcasts recommended to the user accounts over time*
+        </div>
 
     
 <p align= 'justify'>
