@@ -76,7 +76,7 @@ On examining the Discover Weekly Playlists recommended for the four accounts aft
 ##### 4.2.1. Changes in numbers of stereotypically female podcasts recommended for the accounts over time.
 
 <p align= "justify">
-Our findings suggest that there exists a disparity in the speed of Spotify podcasts recommendation of stereotypically female podcasts, depending on the gender of the user. As such, gender stereotypes may thus influence whether a user receives personalised recommendations if the interests of the user go against the stereotypical subjects associated with a given gender. In comparison to accounts associated with “woman”, “non-binary” and “prefer not to say” categories, the “man” account took longer to adjust its recommendations to podcasts classified as stereotypically female (see Figure X). While “woman”, “non-binary” and the “prefer not to say” accounts received between 33-44% of the recommendations as female-coded podcasts after just three listening sessions, the “John Doe” account did so only after four listening activities (2nd May 2024). The account classified as “woman” was the first one to reach almost universally female-coded recommendations, with eight female-coded podcasts recommended out of nine possible recommendations. However, on additional listening sessions, the number of female-coded recommendations for this account dropped, reaching only 6 out of 9 on the last day of the study. 
+Our findings suggest that there exists a disparity in the speed of Spotify podcasts recommendation of stereotypically female podcasts, depending on the gender of the user. As such, gender stereotypes may thus influence whether a user receives personalised recommendations if the interests of the user go against the stereotypical subjects associated with a given gender. In comparison to accounts associated with “woman”, “non-binary” and “prefer not to say” categories, the “man” account took longer to adjust its recommendations to podcasts classified as stereotypically female (see Figure 1). While “woman”, “non-binary” and the “prefer not to say” accounts received between 33-44% of the recommendations as female-coded podcasts after just three listening sessions, the “John Doe” account did so only after four listening activities (2nd May 2024). The account classified as “woman” was the first one to reach almost universally female-coded recommendations, with eight female-coded podcasts recommended out of nine possible recommendations. However, on additional listening sessions, the number of female-coded recommendations for this account dropped, reaching only 6 out of 9 on the last day of the study. 
 
 <div align="center"> 
 
@@ -86,6 +86,16 @@ Our findings suggest that there exists a disparity in the speed of Spotify podca
   
   *Figure 1: Changes in the number of stereotypically female podcasts recommended to the four user accounts over time.*
     </div>
+
+<div align="center"> 
+
+
+<img width="650" alt="figure 1" src="Images/Graphs/Figure 2.jpg">
+  
+  
+  *Figure 2: Changes in the number of stereotypically female podcasts recommended to the four user accounts over time, shown as a trend for each account.*
+    </div>
+
 
 
 <p align= 'justify'>
