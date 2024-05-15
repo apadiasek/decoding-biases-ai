@@ -131,12 +131,27 @@ For each of the four accounts, the main category of podcasts recommended was “
 
 <div align="center"> 
 
-<img width="650" alt="figure 3" src="Images/Graphs/Figure 7.jpg">
+<img width="650" alt="figure 5" src="Images/Graphs/Figure 7.jpg">
   
   
   *Figure 5: Main categories of podcasts recommended for the "man" account.*
     </div>
 
+<div align="center"> 
+
+<img width="650" alt="figure 6" src="Images/Graphs/Figure 8.jpg">
+  
+  
+  *Figure 6: Main categories of podcasts recommended for the "prefer not to say" account.*
+    </div>
+
+<div align="center"> 
+
+<img width="650" alt="figure 7" src="Images/Graphs/Figure 9.jpg">
+  
+  
+  *Figure 7: Main categories of podcasts recommended for the "non-binary" account.*
+    </div>
 
 <p align="justify">
 The high number of “True Crime” podcasts, noticeable for the female account, needs to be analyzed within the context of trends in podcasts popularity among women. While men are more likely in general to listen to podcasts (Riordian, 2018), women consume significantly more true crime media (Vitis and Ryan, 2023; Browder, 2006). Reasons for such behavior according to the literature include the desire to seek justice for victims outside of the legal institutions (Paquet, 2021), the need to gather knowledge on safety precautions in the event of a possible attack (Murley, 2008) or the need of finding a support group of listeners to talk through real-life issues with regard to violence, trauma or assault using podcasts as a starting points for such discussions (Greer, 2017). Therefore, although not accounted as stereotypically female in the study, TCPs can also be seen as a gendered recommendation.
